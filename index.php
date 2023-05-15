@@ -7,8 +7,6 @@
     <title>ejemplo</title>
 </head>
 <body>
-    <h1>
-        <?php echo "holamundo"  ?>
-    </h1>
+    <h1>Hola mundo</h1>
 </body>
 </html>
